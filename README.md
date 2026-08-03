@@ -61,15 +61,6 @@ I'm a full-stack developer. I work mostly with React, Node.js, and MongoDB, and 
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhrdwjuddhv&show_icons=true&hide_border=true&count_private=true" alt="Uddhav's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrdwjuddhv&layout=compact&hide_border=true" alt="Top languages" height="165">
-</p>
-
-<br>
-
 <p align="center">
   <b>Open to collaborating on AI-integrated products.</b><br>
   Reach me on <a href="https://www.linkedin.com/in/bhrdwjuddhv/">LinkedIn</a>.

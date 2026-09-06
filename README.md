@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/bhrdwjuddhv">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=580&lines=Uddhav+Bhardwaj;Full-Stack+Developer;AI-integrated+web+products;Freelance-Developer" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=580&lines=Uddhav+Bhardwaj;Full-Stack+Developer;AI-integrated+web+products;Freelance+Developer" alt="typing banner">
 </a>
 
 <br>

@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars, forks and language come live from the GitHub API on every workflow run. The description here overrides the repo's own GitHub description - go set those on GitHub too, then you can delete these overrides.",
+  "projects": [
+    {
+      "repo": "Achintya-sdk",
+      "description": "One API for building AI agents across LLM providers. Swap the provider without rewriting the app. Published on npm."
+    },
+    {
+      "repo": "Consensus",
+      "description": "A self-consistency answer engine. Runs a question down several reasoning paths and returns the answer they agree on."
+    },
+    {
+      "repo": "timeline",
+      "description": "A content-planning calendar for scheduling and tracking posts, backed by a real database."
+    },
+    {
+      "repo": "chatAI",
+      "description": "A streaming AI chat application built on the LLM APIs directly, no framework in between."
+    }
+  ]
+}

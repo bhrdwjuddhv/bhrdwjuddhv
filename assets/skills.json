@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "PLACEHOLDER NUMBERS - I guessed these from your README, not from you. Edit them. 0-100, purely self-rated, 5-8 axes reads best. Don't put everything at 90; a maxed radar is a circle and a circle says nothing.",
+  "axes": [
+    { "label": "JavaScript",  "value": 88 },
+    { "label": "TypeScript",  "value": 78 },
+    { "label": "React",       "value": 85 },
+    { "label": "Node / API",  "value": 80 },
+    { "label": "Databases",   "value": 72 },
+    { "label": "LLM APIs",    "value": 82 },
+    { "label": "DSA",         "value": 60 }
+  ]
+}

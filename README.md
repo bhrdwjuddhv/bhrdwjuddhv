@@ -1,67 +1,201 @@
-<h1 align="center">Hi, I'm Uddhav Bhardwaj 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer building AI-integrated web products.</b><br>
-  React · Node.js · MongoDB · TypeScript. I build the whole stack, from database to interface.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhrdwjuddhv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/uddhavbhard"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
+<!-- PORTRAIT - regenerate with:
+       python scripts/dotify.py me.png -o assets/portrait --cols 100 --equalize --detail 0.5 --color
+     --color bakes the photo's own colours into the dots, so one file serves both
+     GitHub themes and no <picture> block is needed here. -->
+<img src="assets/portrait.svg" width="280" alt="Uddhav Bhardwaj, rendered as a dot matrix">
 
 <br>
+
+
+<a href="https://github.com/bhrdwjuddhv">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=580&lines=Uddhav+Bhardwaj;Full-Stack+Developer;AI-integrated+web+products;Freelance-Developer" alt="typing banner">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/bhrdwjuddhv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/uddhavbhard"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.npmjs.com/package/achintya-sdk"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> -->
+
+<img src="https://komarev.com/ghpvc/?username=bhrdwjuddhv&style=flat&color=39d353&label=profile+views" alt="profile views">
+
+</div>
+
+---
 
 ## 🧭 What I'm about
 
-I'm a full-stack developer. I work mostly with React, Node.js, and MongoDB, and I've been moving more of my code over to TypeScript. Most of what I build lately puts AI to work inside real web apps, like chat apps, answer engines, and an open-source SDK for building AI agents.
+I'm a full-stack developer. I work mostly with React, Node.js, and MongoDB, and I've been moving more of my code over to TypeScript. Most of what I build lately puts AI to work inside real web apps — chat apps, answer engines, and an open-source SDK for building AI agents.
+
+- Currently building **[Achintya SDK](https://github.com/bhrdwjuddhv/Achintya-sdk)**
+- Learning **Data Structure and Algorithms**
+- Fun fact: **k**
 
 <br>
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,vite,appwrite,git,github,npm&perline=12" alt="tech stack">
 
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite">
-</p>
+</div>
 
-<p align="center"><b>AI &amp; Tooling</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+---
+
+<div align="center">
+
+## 📊 Skills, rated two ways
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<!-- Self-rated — edit assets/skills.json, the workflow redraws it -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="self-rated skill radar">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<!-- Live — real language byte counts across public repos. Edits itself. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar from the GitHub API">
+</picture>
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub>what I think</sub></td>
+<td align="center"><sub>what the bytes say</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📅 A year of commits
+
+<!-- 3D isometric calendar — .github/workflows/metrics.yml, every 6h. Needs METRICS_TOKEN. -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- Snake — .github/workflows/snake.yml, every 12h. 404s until its first run finishes. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/bhrdwjuddhv/bhrdwjuddhv/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhrdwjuddhv/bhrdwjuddhv/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/bhrdwjuddhv/bhrdwjuddhv/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 The numbers
+
+<!-- Generated by scripts/cards.py into this repo — deliberately not github-readme-stats
+     or streak-stats, whose shared public instances 503 and take the section with them. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
 
 <br>
+
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+<br><br>
+
+<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📦 Selected Work
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **[Achintya SDK](https://github.com/bhrdwjuddhv/Achintya-sdk)** | One API for building AI agents that works across different LLM providers, so you can switch providers without rewriting your app. Published on npm. | TypeScript |
-| **[Consensus](https://github.com/bhrdwjuddhv/Consensus)** | An AI self-consistency answer engine. It runs a question through several reasoning paths and returns the answer they most agree on. | JavaScript |
-| **[Timeline](https://github.com/bhrdwjuddhv/timeline)** | A content-planning calendar for scheduling and tracking posts, backed by a real database. | JavaScript, Appwrite |
-| **[chatAI](https://github.com/bhrdwjuddhv/chatAI)** | An AI chat application. | TypeScript |
+<!-- Cards from scripts/cards.py + assets/projects.json. Stars, forks and language
+     are pulled live from the API each run. -->
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/bhrdwjuddhv/Achintya-sdk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Achintya-sdk-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Achintya-sdk-light.svg">
+      <img src="assets/card-Achintya-sdk-dark.svg" width="420" alt="Achintya SDK">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/bhrdwjuddhv/Consensus">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Consensus-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Consensus-light.svg">
+      <img src="assets/card-Consensus-dark.svg" width="420" alt="Consensus">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/bhrdwjuddhv/timeline">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-timeline-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-timeline-light.svg">
+      <img src="assets/card-timeline-dark.svg" width="420" alt="Timeline">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/bhrdwjuddhv/chatAI">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-chatAI-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-chatAI-light.svg">
+      <img src="assets/card-chatAI-dark.svg" width="420" alt="chatAI">
+    </picture>
+  </a>
+</td>
+</tr>
+</table>
 
-> More in my [repositories](https://github.com/bhrdwjuddhv?tab=repositories), including experiments in AI research assistants, agent tooling, and product prototypes.
+<sub>
 
-<br>
+| project | what it does | stack |
+|---|---|---|
+| **[Achintya SDK](https://github.com/bhrdwjuddhv/Achintya-sdk)** | One API for AI agents across LLM providers. Swap providers without rewriting. On npm. | `TypeScript` |
+| **[Consensus](https://github.com/bhrdwjuddhv/Consensus)** | Self-consistency answer engine — several reasoning paths, returns the one they agree on. | `JavaScript` |
+| **[Timeline](https://github.com/bhrdwjuddhv/timeline)** | Content-planning calendar, real database behind it. | `JavaScript` `Appwrite` |
+| **[chatAI](https://github.com/bhrdwjuddhv/chatAI)** | Streaming AI chat app, straight on the LLM APIs. | `TypeScript` |
 
+</sub>
 
+<sub>More in my [repositories](https://github.com/bhrdwjuddhv?tab=repositories).</sub>
 
-<p align="center">
-  <b>Open to collaborating on AI-integrated products.</b><br>
-  Reach me on <a href="https://www.linkedin.com/in/bhrdwjuddhv/">LinkedIn</a>.
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<b>Open to collaborating on AI-integrated products.</b><br>
+Reach me on <a href="https://www.linkedin.com/in/bhrdwjuddhv/">LinkedIn</a>.
+
+</div>
